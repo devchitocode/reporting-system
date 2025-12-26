@@ -1,0 +1,2 @@
+//Initial scaffolding
+function init() {}
